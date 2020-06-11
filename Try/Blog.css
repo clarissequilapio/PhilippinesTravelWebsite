@@ -1,0 +1,459 @@
+.mediaViewInfo {
+	--web-view-name: Blog;
+	--web-view-id: Blog;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Blog;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Blog {
+	position: absolute;
+	width: 1920px;
+	height: 2328px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Blog;
+	--web-view-id: Blog;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#bgLight {
+	fill: rgba(232,232,232,1);
+}
+.bgLight {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1620px;
+	left: 0px;
+	top: 538px;
+}
+#bgDark {
+	fill: rgba(20,19,20,1);
+}
+.bgDark {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1079px;
+	left: 0px;
+	top: 0px;
+}
+#bgFooter {
+	fill: rgba(20,19,20,1);
+}
+.bgFooter {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 174px;
+	left: 0px;
+	top: 2158px;
+}
+#fb {
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	left: 1504px;
+	top: 2253px;
+	overflow: visible;
+}
+#twitter {
+	position: absolute;
+	width: 74px;
+	height: 61px;
+	left: 1601px;
+	top: 2253px;
+	overflow: visible;
+}
+#ig {
+	position: absolute;
+	width: 68px;
+	height: 62px;
+	left: 1711px;
+	top: 2253px;
+	overflow: visible;
+}
+#Social_Media {
+	left: 1287px;
+	top: 2191px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,210,61,1);
+}
+#Contact_Us {
+	left: 136px;
+	top: 2191px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,210,61,1);
+}
+#ID09123456789 {
+	left: 339px;
+	top: 2259px;
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(232,232,232,1);
+}
+#logoPilipinasWhite {
+	position: absolute;
+	width: 282px;
+	height: 100px;
+	left: 819px;
+	top: 2195px;
+	overflow: visible;
+	--web-animation: fadein 0.8s ease-in;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#BLOGS {
+	left: 136px;
+	top: 162px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bebas Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(255,210,61,1);
+	letter-spacing: 0.5px;
+}
+#bgYellow {
+	fill: rgba(255,210,61,1);
+}
+.bgYellow {
+	position: absolute;
+	overflow: visible;
+	width: 1643px;
+	height: 474px;
+	left: 136px;
+	top: 477px;
+}
+#blog1 {
+	position: absolute;
+	width: 671px;
+	height: 560px;
+	left: 960px;
+	top: 303px;
+	overflow: visible;
+}
+#feedbackPlacer {
+	fill: rgba(232,232,232,1);
+}
+.feedbackPlacer {
+	position: absolute;
+	overflow: visible;
+	width: 816px;
+	height: 421px;
+	left: 278px;
+	top: 383px;
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 326px;
+	top: 475px;
+	position: absolute;
+	overflow: visible;
+	width: 702px;
+	height: 215px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(20,19,20,1);
+}
+#Blogger_1 {
+	left: 600px;
+	top: 714px;
+	position: absolute;
+	overflow: visible;
+	width: 155px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(20,19,20,1);
+}
+# {
+	left: 1668px;
+	top: 651px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(20,19,20,1);
+	letter-spacing: 0.5px;
+}
+#_z {
+	left: 193px;
+	top: 651px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(20,19,20,1);
+	letter-spacing: 0.5px;
+}
+#Featured_Photos {
+	left: 682px;
+	top: 1158px;
+	position: absolute;
+	overflow: visible;
+	width: 558px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bebas Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(20,19,20,1);
+	letter-spacing: 0.5px;
+}
+#featured12 {
+	position: absolute;
+	width: 249px;
+	height: 368px;
+	left: 1579px;
+	top: 1722px;
+	overflow: visible;
+}
+#featured11 {
+	position: absolute;
+	width: 255px;
+	height: 343px;
+	left: 1573px;
+	top: 1334px;
+	overflow: visible;
+}
+#featured10 {
+	position: absolute;
+	width: 349px;
+	height: 131px;
+	left: 1185px;
+	top: 1958px;
+	overflow: visible;
+}
+#featured9 {
+	position: absolute;
+	width: 343px;
+	height: 190.5px;
+	left: 1185px;
+	top: 1722px;
+	overflow: visible;
+}
+#featured8 {
+	position: absolute;
+	width: 343px;
+	height: 343px;
+	left: 1185px;
+	top: 1334px;
+	overflow: visible;
+}
+#featured7 {
+	position: absolute;
+	width: 360px;
+	height: 230.5px;
+	left: 780px;
+	top: 1859px;
+	overflow: visible;
+}
+#featured6 {
+	position: absolute;
+	width: 360px;
+	height: 480px;
+	left: 780px;
+	top: 1334px;
+	overflow: visible;
+}
+#featured5 {
+	position: absolute;
+	width: 349px;
+	height: 131px;
+	left: 386px;
+	top: 1959px;
+	overflow: visible;
+}
+#featured4 {
+	position: absolute;
+	width: 343px;
+	height: 343px;
+	left: 392px;
+	top: 1570px;
+	overflow: visible;
+}
+#featured3 {
+	position: absolute;
+	width: 343px;
+	height: 191px;
+	left: 392px;
+	top: 1334px;
+	overflow: visible;
+}
+#featured2 {
+	position: absolute;
+	width: 255px;
+	height: 363px;
+	left: 86px;
+	top: 1726px;
+	overflow: visible;
+}
+#featured1 {
+	position: absolute;
+	width: 261px;
+	height: 343px;
+	left: 86px;
+	top: 1334px;
+	overflow: visible;
+}
+#navbar {
+	position: absolute;
+	width: 1758.5px;
+	height: 86.5px;
+	left: 42px;
+	top: 21px;
+	overflow: visible;
+}
+#HOME {
+	left: 1099px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	--web-animation: fadein 0.8s ease-in;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#EXPLORE {
+	left: 1359px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	--web-animation: fadein 0.8s ease-in;
+	--web-action-type: page;
+	--web-action-target: Explore.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#BLOG {
+	left: 1654px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#logoPilipinasWhite_bh {
+	position: absolute;
+	width: 215px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.8s ease-in;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#selector {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.selector {
+	overflow: visible;
+	position: absolute;
+	width: 104px;
+	height: 5px;
+	left: 1654.5px;
+	top: 86.5px;
+	transform: matrix(1,0,0,1,0,0);
+}

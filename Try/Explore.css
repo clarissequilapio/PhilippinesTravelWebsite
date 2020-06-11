@@ -1,0 +1,429 @@
+.mediaViewInfo {
+	--web-view-name: Explore;
+	--web-view-id: Explore;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Explore;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Explore {
+	position: absolute;
+	width: 1920px;
+	height: 2328px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Explore;
+	--web-view-id: Explore;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#bgLight {
+	fill: rgba(232,232,232,1);
+}
+.bgLight {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1620px;
+	left: 0px;
+	top: 538px;
+}
+#bgDark {
+	fill: rgba(20,19,20,1);
+}
+.bgDark {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 540px;
+	left: 0px;
+	top: 0px;
+}
+#bgFooter {
+	fill: rgba(20,19,20,1);
+}
+.bgFooter {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 174px;
+	left: 0px;
+	top: 2158px;
+}
+#fb {
+	position: absolute;
+	width: 61px;
+	height: 61px;
+	left: 1504px;
+	top: 2253px;
+	overflow: visible;
+}
+#twitter {
+	position: absolute;
+	width: 74px;
+	height: 61px;
+	left: 1601px;
+	top: 2253px;
+	overflow: visible;
+}
+#ig {
+	position: absolute;
+	width: 68px;
+	height: 62px;
+	left: 1711px;
+	top: 2253px;
+	overflow: visible;
+}
+#Social_Media {
+	left: 1287px;
+	top: 2191px;
+	position: absolute;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,210,61,1);
+}
+#Contact_Us {
+	left: 136px;
+	top: 2191px;
+	position: absolute;
+	overflow: visible;
+	width: 222px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,210,61,1);
+}
+#ID09123456789 {
+	left: 339px;
+	top: 2259px;
+	position: absolute;
+	overflow: visible;
+	width: 251px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(232,232,232,1);
+}
+#logoPilipinasWhite {
+	position: absolute;
+	width: 282px;
+	height: 100px;
+	left: 819px;
+	top: 2195px;
+	overflow: visible;
+	--web-animation: fadein 0.8s ease-in;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#SEVEN_WONDERS_OF_THE_PHILIPPIN {
+	left: 136px;
+	top: 138px;
+	position: absolute;
+	overflow: visible;
+	width: 1133px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Bebas Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(255,210,61,1);
+	letter-spacing: 0.5px;
+}
+#bgYellow {
+	fill: rgba(255,210,61,1);
+}
+.bgYellow {
+	position: absolute;
+	overflow: visible;
+	width: 1643px;
+	height: 425px;
+	left: 139px;
+	top: 328px;
+}
+#cavePuerto {
+	position: absolute;
+	width: 831px;
+	height: 554px;
+	left: 545px;
+	top: 287px;
+	overflow: visible;
+}
+# {
+	left: 1464px;
+	top: 501px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(20,19,20,1);
+	letter-spacing: 0.5px;
+}
+#_w {
+	left: 419px;
+	top: 501px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(20,19,20,1);
+	letter-spacing: 0.5px;
+}
+#Puerto_Princesa_Subterranean_R {
+	left: 325px;
+	top: 867px;
+	position: absolute;
+	overflow: visible;
+	width: 1272px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(20,19,20,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con {
+	left: 136px;
+	top: 953px;
+	position: absolute;
+	overflow: visible;
+	width: 1644px;
+	height: 126px;
+	text-align: center;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(20,19,20,1);
+}
+#Things_to_do_In_Philippines {
+	left: 883px;
+	top: 1157px;
+	position: absolute;
+	overflow: visible;
+	width: 897px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Bebas Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(20,19,20,1);
+	letter-spacing: 0.5px;
+}
+#bgYellow_ {
+	fill: rgba(255,210,61,1);
+}
+.bgYellow_ {
+	position: absolute;
+	overflow: visible;
+	width: 960px;
+	height: 494px;
+	left: 0px;
+	top: 1410px;
+}
+#sandDunes {
+	position: absolute;
+	width: 729px;
+	height: 606.5px;
+	left: 116px;
+	top: 1343px;
+	overflow: visible;
+}
+#_ {
+	left: 875px;
+	top: 1594px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(20,19,20,1);
+	letter-spacing: 0.5px;
+}
+#_ba {
+	left: 48px;
+	top: 1594px;
+	position: absolute;
+	overflow: visible;
+	width: 39px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 90px;
+	color: rgba(20,19,20,1);
+	letter-spacing: 0.5px;
+}
+#Play_in_Sand_Dunes {
+	left: 1295px;
+	top: 1343px;
+	position: absolute;
+	overflow: visible;
+	width: 485px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(20,19,20,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ {
+	left: 1027px;
+	top: 1455px;
+	position: absolute;
+	overflow: visible;
+	width: 753px;
+	height: 495px;
+	text-align: right;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(20,19,20,1);
+}
+#navbar {
+	position: absolute;
+	width: 1758px;
+	height: 86.5px;
+	left: 42px;
+	top: 21px;
+	overflow: visible;
+}
+#HOME {
+	left: 1099px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	--web-animation: fadein 0.8s ease-in;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#EXPLORE {
+	left: 1359px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#BLOG {
+	left: 1654px;
+	top: 10px;
+	position: absolute;
+	overflow: visible;
+	width: 105px;
+	white-space: nowrap;
+	--web-animation: fadein 0.8s ease-in;
+	--web-action-type: page;
+	--web-action-target: Blog.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#logoPilipinasWhite_ba {
+	position: absolute;
+	width: 215px;
+	height: 76px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 0.8s ease-in;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#selector {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.selector {
+	overflow: visible;
+	position: absolute;
+	width: 159px;
+	height: 5px;
+	left: 1359.5px;
+	top: 86.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
